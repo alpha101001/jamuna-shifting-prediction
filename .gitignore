@@ -1,0 +1,27 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Node.js / Next.js
+web/node_modules/
+web/.next/
+web/out/
+web/build/
+.npm
+*.log
+
+# IDEs
+.idea/
+.vscode/
+.DS_Store
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Optional: Large Data/Models (If > 100MB, GitHub rejects them)
+# For now, we will keep them commented out so you CAN push them.
+# data/raw/
+# models/*.pkl
